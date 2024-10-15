@@ -130,7 +130,7 @@ span{
     color: orangered;
 }
 .img-box img{
-    border-radius: 50%;
+    border-radius: 30%;
     width: 550px;
 }
 .about{
@@ -145,7 +145,7 @@ span{
     position: relative;
     width: 550px;
     box-shadow: 0 0 25px orangered,0 0 50px orangered;
-    border-radius: 50%;
+    border-radius: 30%;
 }
 .about-content h2{
     text-align: left;
